@@ -12,5 +12,5 @@
 
 В решении использовались библиотеки keras, numpy, pandas.
 
-model.evaluate(xtest, ytest)
+model.evaluate(xtest, ytest) 
 16/16 [==============================] - 1s 24ms/step - loss: 0.3744 - accuracy: 0.9719
